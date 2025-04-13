@@ -1,4 +1,10 @@
 list: # format date as dd/mm/yyyy
+  - title: "Will start internship at Microsoft Research with the Inclusive Futures team"
+    date: "Jun 2025"
+    description: "Looking forward to spending summer 2025 at MSR!"
+  - title: "Passed my General Exam - officially a PhD Candidate!"
+    date: "Jan 2025"
+    description: "Excited to continue my PhD journey at UW HCDE"
   - title: "October Travel Plan: I'll be serving as SV at UIST 2024 (Oct 12-17) and presenting at AIES 2024 (Oct 21-23)."
     date: "Sep 2024" # Oct 21, 2021
     description: "See you @ Pittsburg and San Jose"
