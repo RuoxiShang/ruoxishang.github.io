@@ -1,4 +1,15 @@
 publication:
+  - title: "Rethinking Teaching Evaluation Reports: Designing AI-transformed Student Feedback for Instructor Engagement"
+    authors: 
+      - Ruoxi Shang
+      - Keri Mallari
+      - Wei Bin Au Yeong
+      - Ken Yasuhara
+      - Anthony Tang
+      - Gary Hsieh
+    venue_short: "CSCW 2025"
+    venue_long: "Computer Supported Cooperative Work and Social Computing"
+    pdf: "cscw2025_set_paper.pdf"
   - title: "BLADE: Benchmarking Language Model Agents for Data-Driven Science"
     authors: 
       - Ken Gu
@@ -50,7 +61,7 @@ publication:
     venue_short: "CHI 2023"
     venue_long: "CHI Conference on Human Factors in Computing Systems"
     pdf: "chi2023_introbot_paper.pdf"
-  - title: "Why Am I Not Seeing It? Understanding Users’ Needs for Counterfactual Explanations in Everyday Recommendations"
+  - title: "Why Am I Not Seeing It? Understanding Users' Needs for Counterfactual Explanations in Everyday Recommendations"
     authors:
       - Ruoxi Shang
       - KJ Kevin Feng
@@ -59,7 +70,7 @@ publication:
     venue_long: "ACM Conference on Fairness, Accountability, and Transparency"
     pdf: "facct2022_whynot_paper.pdf"
     video: "https://www.youtube.com/watch?v=3wpp0iYY3uQ"
-  - title: "“What’s going on in Accessibility Research?” Frequencies and Trends of Disability Categories and Research Domains in Publications at ASSETS"
+  - title: ""What's going on in Accessibility Research? Frequencies and Trends of Disability Categories and Research Domains in Publications at ASSETS"
     authors:
       - Ather Sharif
       - Ploypilin Pruekcharoen
